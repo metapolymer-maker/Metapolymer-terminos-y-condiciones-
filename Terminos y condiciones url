@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Términos y Condiciones - MetaPolymer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #4CAF50;
+        }
+        p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Términos y Condiciones</h1>
+
+    <h2>1. Introducción</h2>
+    <p>Bienvenido a MetaPolymer. Estos términos y condiciones describen las reglas y regulaciones para el uso del sitio web de MetaPolymer.</p>
+
+    <h2>2. Aceptación de los Términos</h2>
+    <p>Al acceder a este sitio web, asumimos que aceptas estos términos y condiciones. No continúes usando MetaPolymer si no estás de acuerdo con todos los términos y condiciones establecidos en esta página.</p>
+
+    <h2>3. Cambios en los Términos</h2>
+    <p>MetaPolymer se reserva el derecho de modificar o sustituir estos términos en cualquier momento. Es responsabilidad del usuario revisar estos términos periódicamente.</p>
+
+    <h2>4. Propiedad Intelectual</h2>
+    <p>Todo el contenido incluido en este sitio web, como texto, gráficos, logotipos, imágenes, clips de audio y software, es propiedad de MetaPolymer o sus proveedores de contenido y está protegido por las leyes de derechos de autor internacionales.</p>
+
+    <h2>5. Uso del Sitio</h2>
+    <p>No debes utilizar este sitio web de ninguna manera que cause, o pueda causar, daño al sitio web o que afecte la disponibilidad o accesibilidad del mismo. Tampoco debes usar el sitio web de ninguna manera que sea ilegal, fraudulenta o perjudicial.</p>
+
+    <h2>6. Limitación de Responsabilidad</h2>
+    <p>En ningún caso MetaPolymer, ni sus directores, empleados o agentes, serán responsables de ningún daño indirecto, incidental, especial, consecuente o punitivo, incluidos, sin limitación, pérdida de beneficios, datos, uso, fondo de comercio u otras pérdidas intangibles, resultantes de:</p>
+    <ul>
+        <li>Tu acceso o uso o incapacidad de acceder o usar el servicio;</li>
+        <li>Cualquier conducta o contenido de terceros en el servicio;</li>
+        <li>Cualquier contenido obtenido del servicio;</li>
+        <li>Acceso no autorizado, uso o alteración de tus transmisiones o contenido.</li>
+    </ul>
+
+    <h2>7. Indemnización</h2>
+    <p>Aceptas indemnizar y mantener a MetaPolymer y sus subsidiarias, afiliados, directores, agentes, empleados, socios y licenciatarios, indemnes de cualquier reclamo o demanda, incluidos los honorarios razonables de abogados, hechos por un tercero debido a o como resultado de contenido que envíes, publiques, transmitas o hagas disponible a través del servicio, tu uso del servicio, tu conexión al servicio, tu violación de los términos, o tu violación de cualquier derecho de otro.</p>
+
+    <h2>8. Ley Aplicable</h2>
+    <p>Estos términos se regirán e interpretarán de acuerdo con las leyes del país en el que se encuentra MetaPolymer, sin tener en cuenta sus conflictos de disposiciones legales.</p>
+
+    <h2>9. Contacto</h2>
+    <p>Si tienes alguna pregunta sobre estos términos, por favor contáctanos en polymer.clientes@gmail.com. </p>
+</div>
+
+</body>
+</html>
